@@ -91,7 +91,7 @@
 <h2>📊 GitHub İstatistikleri</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KeremYıldız&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=@yldz1keremz&show_icons=true&theme=radical"/>
 </p>
 
 ---
