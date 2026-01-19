@@ -5,18 +5,6 @@
   <i>Object-Oriented Programming • Clean Code • System Thinking</i>
 </p>
 
-<p align="center">
-  <a href="mailto:keremyldzz4721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kerem-yıldız-ba4bb1362">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yldz1kerem">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -24,7 +12,7 @@
 - Software Engineering student at **Kırklareli University**
 - Focused on **Object-Oriented Programming** and **Clean Code principles**
 - Interested in backend development and system-oriented thinking
-- Actively improving problem-solving, algorithmic thinking, and software design skills
+- Continuously improving algorithmic thinking and software design skills
 - Open to learning, collaboration, and real-world software projects
 
 ---
@@ -78,4 +66,20 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yldz1kerem&show_icons=true&theme=radical"/>
+</p>
+
+---
+
+## 🌐 Contact & Social
+
+<p align="center">
+  <a href="mailto:keremyldzz4721@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kerem-yıldız-ba4bb1362">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/yldzz_kerem">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
 </p>
