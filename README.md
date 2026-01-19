@@ -1,13 +1,8 @@
+<!-- HEADER -->
 <h1 align="center">👋 Merhaba, ben Kerem Yıldız</h1>
-
 <p align="center">
-  💻 <b>Software Engineering Student | Java Developer</b><br>
-  <i>public class Kerem extends JavaDeveloper implements CleanCode, OOP {}</i>
-</p>
-
-<p align="center">
-  Nesne yönelimli programlama odaklı, <br>
-  gerçek hayat problemlerine sürdürülebilir yazılım çözümleri geliştiren bir yazılım geliştiricisiyim.
+  💻 Software Engineering Student at Kırklareli University<br>
+  <i>public class Kerem extends JavaDev implements CleanCode, OOP {}</i>
 </p>
 
 <p align="center">
@@ -20,24 +15,23 @@
   <a href="https://www.instagram.com/yldzz_kerem">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://github.com/yldz1kerem">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<h2>🚀 Hakkımda</h2>
-
-- 🎯 Yazılım geliştirme alanında kendini sürekli geliştiren bir **Software Engineering** öğrencisiyim  
-- 🧠 **OOP, Clean Code ve Design Patterns** mantığını projelerimde aktif kullanıyorum  
-- 🧩 Backend & Frontend mimarisini öğrenerek **full-stack bakış açısı** kazanıyorum  
-- 🌱 Gerçek dünya problemlerine yönelik **ölçeklenebilir sistemler** geliştirmeyi hedefliyorum  
-- 🤝 Yeni projeler, ekip çalışmaları ve açık kaynak katkılarına açığım  
+## 👨‍💻 Hakkımda
+- 🎯 Yazılım geliştirme ile gerçek dünya problemlerine çözüm üreten biriyim  
+- 🧠 Nesne Yönelimli Programlama (OOP) ve temiz kod prensiplerine önem veriyorum  
+- 🌱 Backend & Frontend geliştirme öğreniyorum ve projeler üretiyorum  
 
 ---
 
-<h2>🛠️ Teknolojiler & Araçlar</h2>
+## 🚀 Teknolojiler & Araçlar
 
-<h3>💻 Programlama Dilleri</h3>
-
+### 💻 Programlama Dilleri
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,29 +41,21 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-<h3>🌐 Web Teknolojileri</h3>
-
+### 🌐 Web & Veritabanı
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-<h3>🗄️ Veritabanı</h3>
-
-<p>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
 </p>
 
-<h3>🤖 Yapay Zeka & Veri İşleme</h3>
-
+### 🧠 AI & Veri
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-<h3>⚙️ Araçlar</h3>
-
+### ⚙️ Araçlar
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -78,23 +64,20 @@
 
 ---
 
-<h2>🧠 Temel Yetkinlikler</h2>
-
-- ✅ Nesne Yönelimli Programlama (OOP)  
-- ✅ Clean Code & SOLID Prensipleri  
-- ✅ Algoritmalar ve Veri Yapıları  
-- ✅ Design Patterns (Strategy, State, Adapter vb.)  
-- ✅ Backend mantığı ve sistem tasarımı  
-
----
-
-<h2>📊 GitHub İstatistikleri</h2>
-
+## 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yldz1kerem&show_icons=true&theme=radical"/>
 </p>
 
 ---
 
-⭐ <b>Profilimi ziyaret ettiğin için teşekkür ederim!</b><br>
-🚀 Projelerim ve teknik yetkinliklerim zamanla güncellenmeye devam edecektir.
+## 💼 Popüler Projeler
+✨ Aşağıdaki projelerimi öne çıkararak profil ziyaretçilerine hızlıca yeteneklerimi gösteriyorum  
+*(İstersen burayı otomatikleştirmek için proje kartları da ekleyebilirim)*
+
+### 📌 Örnek Repo Kartı
+```md
+### 🔥 Awesome Project
+<a href="https://github.com/yldz1kerem/ProjeAdi">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yldz1kerem&repo=ProjeAdi&theme=radical"/>
+</a>
