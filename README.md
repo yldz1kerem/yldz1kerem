@@ -5,6 +5,10 @@
   <i>Object-Oriented Programming • Clean Code • System Thinking</i>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yldz1kerem&label=Profile%20Views&color=blueviolet&style=flat-square"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
